@@ -1,0 +1,22 @@
+*~
+.#*
+#*#
+src/build
+build*/
+.DS_Store
+.ipynb_checkpoints/
+.cache/
+training_data*/
+*.exr
+log.txt
+.vscode/
+outputs*/
+# src/ext/tcnn/
+# src/ext/tiny-cuda-nn-old/
+common/*
+!common/configs
+**.csv
+**.7z
+**.zip
+
+**__pycache__/
