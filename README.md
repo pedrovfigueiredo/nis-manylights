@@ -22,7 +22,7 @@ We propose a neural approach for estimating spatially varying light selection di
 This project is tested with OptiX 7.4, CUDA 12.4, NVIDIA RTX 4090, on Windows 11 (MSVC).
 
 ## Scenes
-You can download the seven scenes used in the main comparisons from the following link: [scenes download](https://drive.google.com/file/d/1kxo_TJGze7-auqJ9OI3NDOXHGoccUrAA/view?usp=sharing).
+You can download the seven scenes used in the main comparisons from the following link: [scenes download](https://drive.google.com/file/d/1mvbsHQxwWaoXRJ_06cakmE3jkLZEKw0i/view?usp=drive_link).
 Once downloaded, extract the scenes into the `common` directory, so that the directory structure looks like this:
 ```
 common/
